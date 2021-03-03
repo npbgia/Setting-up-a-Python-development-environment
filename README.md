@@ -38,3 +38,14 @@ pip install google-cloud-storage
 
 ### Make reference to the link for details (Include: MacOS, Windows, Linux)
 https://cloud.google.com/python/setup#linux
+
+# WINDOWS OS
+https://docs.python.org/3/tutorial/venv.html
+
+SET UP VIRTUAL ENVIRONMENT ON WINDOWS:
+
+#python3 -m venv C:/myvenv
+python -m venv C:/myvenv
+
+#Start service
+C:\myvenv\Scripts\activate.bat
