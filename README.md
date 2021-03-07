@@ -45,7 +45,9 @@ https://docs.python.org/3/tutorial/venv.html
 SET UP VIRTUAL ENVIRONMENT ON WINDOWS:
 
 #python3 -m venv C:/myvenv
+
 python -m venv C:/myvenv
 
 #Start service
+
 C:\myvenv\Scripts\activate.bat
